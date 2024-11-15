@@ -562,6 +562,10 @@ video {
   height: 100vh;
 }
 
+.max-w-sm {
+  max-width: 24rem;
+}
+
 .items-center {
   align-items: center;
 }
