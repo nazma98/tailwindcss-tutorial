@@ -710,10 +710,6 @@ video {
     display: flex;
   }
 
-  .sm\:items-start {
-    align-items: flex-start;
-  }
-
   .sm\:items-center {
     align-items: center;
   }
